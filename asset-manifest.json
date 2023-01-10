@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/theinsightpartners-copy/static/css/main.ed80791e.css",
-    "main.js": "/theinsightpartners-copy/static/js/main.56a94f80.js",
-    "index.html": "/theinsightpartners-copy/index.html",
-    "main.ed80791e.css.map": "/theinsightpartners-copy/static/css/main.ed80791e.css.map",
-    "main.56a94f80.js.map": "/theinsightpartners-copy/static/js/main.56a94f80.js.map"
+    "main.css": "/theinsightpartnersinc-test/static/css/main.ed80791e.css",
+    "main.js": "/theinsightpartnersinc-test/static/js/main.56a94f80.js",
+    "index.html": "/theinsightpartnersinc-test/index.html",
+    "main.ed80791e.css.map": "/theinsightpartnersinc-test/static/css/main.ed80791e.css.map",
+    "main.56a94f80.js.map": "/theinsightpartnersinc-test/static/js/main.56a94f80.js.map"
   },
   "entrypoints": [
     "static/css/main.ed80791e.css",
